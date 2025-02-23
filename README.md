@@ -12,7 +12,7 @@
 
 **add members**
 
-- [ ] Invite your team members from https://github.com/Goryudyuma/isucon-boilerplate-test005/settings/access.
+- [x] Invite your team members from https://github.com/Goryudyuma/isucon-boilerplate-test005/settings/access.
   - Run [Update SSH Keys](https://github.com/Goryudyuma/isucon-boilerplate-test005/actions/workflows/update-sshkeys.yml).
 
 #### in each competition server 
